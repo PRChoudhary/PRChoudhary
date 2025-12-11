@@ -30,12 +30,26 @@ HTML, CSS, React.js, Redux Toolkit, TailwindCSS
 Node.js, Express.js, REST APIs  
 
 **Database:**  
-MongoDB, MySQL  
+MongoDB, MySQL, 
 
 **Tools & Platforms:**  
-Git, GitHub, Razorpay, Cloudinary, Nodemailer, OAuth, VS Code
+Git, GitHub, Cloudinary, Nodemailer, OAuth, VS Code
 
 ---
+## 📘 Coursework
+
+- Operating Systems  
+- Data Structures and Algorithms  
+- Database Management Systems  
+- Object-Oriented Programming  
+- Computer Networks  
+- Web Development  
+- Data Communication  
+- Algorithms and Complexity  
+- Software Engineering  
+
+---
+
 
 ## 🚀 Featured Projects
 
